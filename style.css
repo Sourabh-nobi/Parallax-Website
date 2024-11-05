@@ -4,7 +4,7 @@
 }
 
 .hero{
-    background-image: url(/img/pexels-nout-gons-80280-248159.jpg);
+    background-image: url(pexels-nout-gons-80280-248159.jpg);
     background-attachment: fixed;
     background-size: cover;
     position: sticky;
@@ -39,7 +39,7 @@ h1{
 }
 
 .second_section{
-    background-image: url(/img/pexels-pixabay-459225.jpg);
+    background-image: url(pexels-pixabay-459225.jpg);
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
@@ -49,7 +49,7 @@ h1{
     background-position: center;
 }
 .third_section{
-    background-image: url(/img/pexels-pixabay-247599.jpg);
+    background-image: url(pexels-pixabay-247599.jpg);
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
@@ -59,7 +59,7 @@ h1{
     background-position: center;
 }
 .forth_section{
-    background-image: url(/img/pexels-pixabay-531321.jpg);
+    background-image: url(pexels-pixabay-531321.jpg);
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
