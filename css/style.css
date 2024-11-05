@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hero{
+    background-image: url(/img/pexels-nout-gons-80280-248159.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    position: sticky;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+}
+h2{
+    font-size: 30PX;
+    margin-bottom: 20px;
+}
+P{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+h1{
+    background: rgb(71, 71, 71);
+    padding: 20px 50px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 200;
+}
+
+.section{
+    margin: 0 auto;
+    padding: 30px 50px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.second_section{
+    background-image: url(/img/pexels-pixabay-459225.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+}
+.third_section{
+    background-image: url(/img/pexels-pixabay-247599.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+}
+.forth_section{
+    background-image: url(/img/pexels-pixabay-531321.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+}
+
+@media (max-width: 960px){
+    .section{
+        padding: 20px;
+    }
+
+}
+
+@media (max-width: 390px){
+    h1{
+        font-size: 15px;
+    }
+
+}
